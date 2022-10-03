@@ -10,11 +10,10 @@
 
 
 ## 📖 About me
-
-* 💻 I'm a competitive programmer
-* 👨‍💻 I'm a full stack web developer
-* ⌨️ I'm Machine Learning Enthusiast
-* 🎓 I'm an Information Technology student (graduating in 2022)
+* 🖥️ SDE-1 @Amazon
+* 👨‍💻 AIR 57 GATE CS 2021
+* ⌨️ I'm a competitive programmer, full stack web dev and Machine Learning Enthusiast
+* 🎓 Completed my B.Tech from RAIT Mumbai.
 
 
 ## 🙋‍♂️ Connect with me:
