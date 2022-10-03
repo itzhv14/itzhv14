@@ -11,7 +11,7 @@
 
 ## 📖 About me
 * 🖥️ SDE-1 @Amazon
-* 👨‍💻 AIR 57 GATE CS 2021
+* 👨‍💻 AIR 57 GATE CS 2022
 * ⌨️ I'm a competitive programmer, full stack web dev and Machine Learning Enthusiast
 * 🎓 Completed my B.Tech from RAIT Mumbai.
 
